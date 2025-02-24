@@ -38,7 +38,7 @@ This project implements a turret system using computer vision techniques. The sy
 
 ### Pre-run
 
-1. Open Lib folder
+1. Open Lib folder under your virtual environment by default ".venv"
 2. Open the cv2 folder inside it
 3. Open the data folder
 4. Copy haarcascade_frontalface_default.xml file to the main directory

@@ -23,13 +23,14 @@ This project implements a turret system using computer vision techniques. The sy
    ```
 
 2. Create a virtual environment and activate it:
+   I prefer to use Python Version 3.11.9 or above
    ```sh
    python -m venv .venv
    .venv\Scripts\activate  # On Windows
    source .venv/bin/activate  # On macOS/Linux
    ```
 
-3. Install the required packages:
+4. Install the required packages:
    ```sh
    pip install opencv-python opencv-contrib-python numpy
    ```
